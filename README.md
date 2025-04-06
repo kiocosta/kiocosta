@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm Caio. Welcome to my profile! 🫶
+Welcome to my profile! 🫶
 
 I'm currently...
 - 👷 Contributing to [@BoltzExchange](https://github.com/BoltzExchange/);
